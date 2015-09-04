@@ -5,7 +5,9 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
+
   logo: "/images/rm.png"
+
   # author will appear under the avatar (optional)
   author: "Rayhan Mursalin"
   # tagline will appear under the title (optional)
@@ -16,7 +18,11 @@ compass:
   # if include_analytics is true, the content of the analytics.html include will
   # be added at the end of the <head> section. You can add your Google Analytics
   # Tracking Code to that file.
+<<<<<<< HEAD
   include_analytics: true
+=======
+  include_analytics: false
+>>>>>>> c8afaca2d5e848421fe7f55c269d39ac406271fc
 
 # Dependencies
 markdown: kramdown
